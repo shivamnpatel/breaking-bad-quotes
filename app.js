@@ -31,3 +31,7 @@ function btnClick()
 
 // window.addEventListener("load", btnClick);
 submitButton.addEventListener("click", btnClick);
+
+window.addEventListener('load', (event) => {
+    btnClick();
+  });
