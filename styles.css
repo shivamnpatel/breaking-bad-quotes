@@ -1,0 +1,57 @@
+#heading{
+    margin-top: 2rem;
+    padding: 1rem;
+    text-align: center;
+    color:  #91C810;
+    text-transform: uppercase;
+    font-family: 'Courier New', monospace;
+    font-size: 300%;
+    text-decoration: underline;
+    /* background-color:#B0B889; */
+}
+
+#outputQuote
+{
+    margin-top: 5rem;
+    padding: 1rem;
+    text-align: center;
+    color: #C8A310;
+    font-family: 'Noto Serif', serif;
+    font-size: 200%;
+} 
+
+button{
+    margin: auto;
+    margin-top: 5rem;
+    padding: 10px 20px;
+    display: flex; 
+    border-radius: 8px;
+    background-color:#10C847;
+    color: black;
+    cursor: pointer;
+    text-align: center;
+    font-size: 20px;
+}
+#outputAuthor{
+    text-align: right;
+    margin: 1rem 20rem;
+    color:#F1B24A;
+    font-family: Verdana;
+    font-style: italic;
+}
+
+body{
+    /* background-image: url("images/background.png"); */
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #3F3F3F;
+}
+
+.bb-logo
+{
+    text-align: center;
+    background-color: aliceblue;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
